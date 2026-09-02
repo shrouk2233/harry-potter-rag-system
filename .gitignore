@@ -1,0 +1,13 @@
+.venv/
+backend/.env
+*.env
+!backend/.env.example
+*.pdf
+*.rar
+dataset/
+rag_project.rar
+output.md
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
